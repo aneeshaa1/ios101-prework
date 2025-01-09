@@ -1,17 +1,17 @@
-# Prework - *Name of App Here*
+# Prework - *Random Color Generator*
 
-Submitted by: **Your Name Here**
+Submitted by: **Aneesha Acharya**
 
-**Name of your app** is an app that... [TODO] 
+**Random Color Generator** is an app that sets the background to a random color when the button is clicked.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users can see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
