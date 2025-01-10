@@ -33,12 +33,13 @@ YouTube
  - adjust playback speed of video
 
 Spotify
- - the song that is playing show's on the device's lockscreen
+ - the song that is playing is displayed on the device's lockscreen
  - add songs to queue
  - create and share playlists
 
-### App Idea:
+### App Idea: Campus Involvement App
 
+Universities offer many opportunities for students to get involved on campus especially through clubs and organizations. It can be difficult to keep track of each organization's events, especially when they are posted on various platforms. This app will allow students to find upcoming events such as GBMs, socials, networking events, and much more in one place. Organizations can post their upcoming events while students can search for and follow the organizations they want to join, as well as RSVP to the events that they want to attend. Students can even enable notifications for events that are happening soon. 
 
 
 ## Notes
