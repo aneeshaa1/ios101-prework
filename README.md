@@ -19,7 +19,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
-## App Brainstorming (Step 4)
+## App Brainstorming 
+
+### Features I appreciate from existing apps:
+
+Apple's Photos App:
+ - search the camera roll using key words, dates, locations, etc.
+ - create custom albums
+ - zoom in and out of the camera roll as well as individual photos and videos
+
+YouTube
+ - recommends suggested videos
+ - adjust playback speed of video
+
+Spotify
+ - the song that is playing show's on the device's lockscreen
+ - add songs to queue
+ - create and share playlists
+
+### App Idea:
+
+
 
 ## Notes
 
@@ -27,7 +47,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Aneesha Acharya
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
