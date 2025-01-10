@@ -46,7 +46,7 @@ Universities offer many opportunities for students to get involved on campus esp
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Bulding this app was a pretty straightforward process, however, it did take me a little extra time to familiarize myself with the layout of Xcode and look for the correct sections and buttons.
 
 ## License
 
